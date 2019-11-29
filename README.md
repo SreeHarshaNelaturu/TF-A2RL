@@ -1,3 +1,5 @@
+<a href="https://open-app.runwayml.com/?model=sree_harsha/TF-A2RL" target="_blank"><img src="https://open-app.runwayml.com/gh-badge.svg" /></a>
+
 # TF-A2RL: Automatic Image Cropping
 [[Project]](https://debangli.github.io/A2RL/)   [[Paper]](https://arxiv.org/abs/1709.04595)   [[Online Demo]](https://wuhuikai.github.io/TF-A2RL/)    [[API]](https://algorithmia.com/algorithms/wuhuikai/A2RL_online)   [[Related Work: GP-GAN (for Image Blending)]](https://github.com/wuhuikai/GP-GAN)
 
